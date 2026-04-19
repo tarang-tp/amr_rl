@@ -1,0 +1,1236 @@
+genome_id	genome_name	antibiotic	measurement_value	measurement_unit	gyrA_S83L	gyrA_D87N	parC_S80I	parC_E84V	qnrA	qnrB	qnrC	qnrD	qnrS	aac(6')-Ib-cr	oqxA	oqxB	marR	soxR	tolC	acrB	species
+562.101974	Escherichia coli SMG008F2	ciprofloxacin	64.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.102124	Escherichia coli SMG008U	ciprofloxacin	64.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.10576	Escherichia coli strain MRSN388641	ciprofloxacin	2.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.109859	Escherichia coli strain USDA-ARS-USMARC-51408 strain not applicable	ciprofloxacin	0.015	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.109862	Escherichia coli strain USDA-ARS-USMARC-49610 strain not applicable	ciprofloxacin	2.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.111033	Escherichia coli USDA-ARS-USMARC-51408	ciprofloxacin	0.015	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.111034	Escherichia coli USDA-ARS-USMARC-51688	ciprofloxacin	0.06	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.111035	Escherichia coli USDA-ARS-USMARC-49610	ciprofloxacin	2.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.112424	Escherichia coli TR_AVFP-1	ciprofloxacin	30.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.112426	Escherichia coli TR_AVFP-4	ciprofloxacin	35.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.114625	Escherichia coli AR_0006	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.114630	Escherichia coli AR_0015	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.114631	Escherichia coli AR_0011	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.114633	Escherichia coli AR_0017	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.114672	Escherichia coli CRE1493	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.114673	Escherichia coli CRE1540	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.115102	Escherichia coli A1160	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.115104	Escherichia coli A3040	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.115105	Escherichia coli A3039	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.115106	Escherichia coli A3026	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.115108	Escherichia coli 9793	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.115109	Escherichia coli A155	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.115110	Escherichia coli 9703	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.12960	Escherichia coli strain AR_0048	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.12961	Escherichia coli strain F1-8-ERB4	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.13502	Escherichia coli strain ICBEC7P	ciprofloxacin	64.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.135584	Escherichia coli 20200203_MGL_20	ciprofloxacin	13.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.16324	Escherichia coli strain AR_0118	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.16325	Escherichia coli strain AR_0061	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.16326	Escherichia coli strain AR_0069	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.16466	Escherichia coli strain 5CRE51	ciprofloxacin	2.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.17620	Escherichia coli strain AR_0114	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.17621	Escherichia coli strain AR_0150	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.17722	Escherichia coli strain AR_0055	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.19631	Escherichia coli strain AR_0151	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.19632	Escherichia coli strain AR_0058	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.19821	Escherichia coli strain AR_0149	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.19823	Escherichia coli strain AR_0128	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.28132	Escherichia coli strain CRE1493	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.28434	Escherichia coli strain AR_0372	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.28435	Escherichia coli strain AR_0369	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.28566	Escherichia coli strain AR_0371	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.28567	Escherichia coli strain AR_0370	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.29006	Escherichia coli strain AR436	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.29008	Escherichia coli strain AR437	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.30349	Escherichia coli strain CCUG 70745	ciprofloxacin	32.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.30435	Escherichia coli strain AR_451	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.33280	Escherichia coli strain AR_0450	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.34085	Escherichia coli strain AR_0086	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.34086	Escherichia coli strain AR_0013	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.34089	Escherichia coli strain AR_0089	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42634	Escherichia coli strain 100	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42635	Escherichia coli strain 108	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42636	Escherichia coli strain 134	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42637	Escherichia coli strain 136	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42638	Escherichia coli strain 137	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42639	Escherichia coli strain 138	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42640	Escherichia coli strain 139	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42642	Escherichia coli strain 141	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42643	Escherichia coli strain 142	ciprofloxacin	64.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42645	Escherichia coli strain 144	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42648	Escherichia coli strain 149	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42649	Escherichia coli strain 151	ciprofloxacin	64.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42651	Escherichia coli strain 154	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42652	Escherichia coli strain 155	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42654	Escherichia coli strain 159	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42656	Escherichia coli strain 162	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42658	Escherichia coli strain 163	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42660	Escherichia coli strain 165	ciprofloxacin	64.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42662	Escherichia coli strain 169	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42665	Escherichia coli strain 190	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42667	Escherichia coli strain 195	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42668	Escherichia coli strain 196	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42671	Escherichia coli strain 199	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42673	Escherichia coli strain 202	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42675	Escherichia coli strain 205	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42676	Escherichia coli strain 207	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42678	Escherichia coli strain 221	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42679	Escherichia coli strain 222	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42680	Escherichia coli strain 223	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42681	Escherichia coli strain 232	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42682	Escherichia coli strain 233	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42683	Escherichia coli strain 235	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42685	Escherichia coli strain 237	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42688	Escherichia coli strain 241	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42689	Escherichia coli strain 243	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42691	Escherichia coli strain 245	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42692	Escherichia coli strain 248	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42694	Escherichia coli strain 254	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42695	Escherichia coli strain 257	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42698	Escherichia coli strain 262	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42699	Escherichia coli strain 263	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42701	Escherichia coli strain 265	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42702	Escherichia coli strain 279	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42703	Escherichia coli strain 280	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42704	Escherichia coli strain 281	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42705	Escherichia coli strain 282	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42706	Escherichia coli strain 283	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42707	Escherichia coli strain 284	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42708	Escherichia coli strain 286	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42709	Escherichia coli strain 287	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42710	Escherichia coli strain 309	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42712	Escherichia coli strain 316	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42714	Escherichia coli strain 318	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42715	Escherichia coli strain 319	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42718	Escherichia coli strain 327	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42721	Escherichia coli strain 343	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42723	Escherichia coli strain 347	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42725	Escherichia coli strain 364	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42727	Escherichia coli strain 368	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42728	Escherichia coli strain 369	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42729	Escherichia coli strain 370	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42732	Escherichia coli strain 394	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42733	Escherichia coli strain 399	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42734	Escherichia coli strain 403	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42735	Escherichia coli strain 404	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42737	Escherichia coli strain 406	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42738	Escherichia coli strain 407	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42739	Escherichia coli strain 409	ciprofloxacin	2.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42740	Escherichia coli strain 410	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42741	Escherichia coli strain 412	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42742	Escherichia coli strain 453	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42743	Escherichia coli strain 467	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42746	Escherichia coli strain 477	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42747	Escherichia coli strain 478	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42749	Escherichia coli strain 482	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42751	Escherichia coli strain 60	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42752	Escherichia coli strain 71	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42753	Escherichia coli strain 76	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42754	Escherichia coli strain 78	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42755	Escherichia coli strain 8	ciprofloxacin	5.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42756	Escherichia coli strain 84	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42757	Escherichia coli strain 85	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42758	Escherichia coli strain 86	ciprofloxacin	32.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42763	Escherichia coli strain M1	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42764	Escherichia coli strain M10	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42765	Escherichia coli strain M11	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42766	Escherichia coli strain M12	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42767	Escherichia coli strain M13	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42769	Escherichia coli strain M15	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42770	Escherichia coli strain M16	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42771	Escherichia coli strain M17	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42772	Escherichia coli strain M18	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42774	Escherichia coli strain M2	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42775	Escherichia coli strain M20	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42778	Escherichia coli strain M23	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42779	Escherichia coli strain M24	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42780	Escherichia coli strain M25	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42785	Escherichia coli strain M30	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42786	Escherichia coli strain M31	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42788	Escherichia coli strain M33	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42789	Escherichia coli strain M34	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42790	Escherichia coli strain M35	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42792	Escherichia coli strain M37	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42794	Escherichia coli strain M38	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42800	Escherichia coli strain M41	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42801	Escherichia coli strain M42	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42802	Escherichia coli strain M43	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42805	Escherichia coli strain M45	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42809	Escherichia coli strain M5	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42810	Escherichia coli strain M50	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42815	Escherichia coli strain M55	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42817	Escherichia coli strain M7	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42818	Escherichia coli strain M8	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42819	Escherichia coli strain M9	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42820	Escherichia coli strain MUGSI_106	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42821	Escherichia coli strain MUGSI_123	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42822	Escherichia coli strain MUGSI_13	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42823	Escherichia coli strain MUGSI_132	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42824	Escherichia coli strain MUGSI_134	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42825	Escherichia coli strain MUGSI_138	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42826	Escherichia coli strain MUGSI_14	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42830	Escherichia coli strain MUGSI_154	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42831	Escherichia coli strain MUGSI_162	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42833	Escherichia coli strain MUGSI_174	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42835	Escherichia coli strain MUGSI_201	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42836	Escherichia coli strain MUGSI_205	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42837	Escherichia coli strain MUGSI_206	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42839	Escherichia coli strain MUGSI_210	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42840	Escherichia coli strain MUGSI_212	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42842	Escherichia coli strain MUGSI_218	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42843	Escherichia coli strain MUGSI_226	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42844	Escherichia coli strain MUGSI_242	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42845	Escherichia coli strain MUGSI_243	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42846	Escherichia coli strain MUGSI_244	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42848	Escherichia coli strain MUGSI_247	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42849	Escherichia coli strain MUGSI_248	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42852	Escherichia coli strain MUGSI_250	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42853	Escherichia coli strain MUGSI_255	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42854	Escherichia coli strain MUGSI_257	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42855	Escherichia coli strain MUGSI_258	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42856	Escherichia coli strain MUGSI_273	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42858	Escherichia coli strain MUGSI_276	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42859	Escherichia coli strain MUGSI_278	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42860	Escherichia coli strain MUGSI_280	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42861	Escherichia coli strain MUGSI_287	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42862	Escherichia coli strain MUGSI_292	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42864	Escherichia coli strain MUGSI_313	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42865	Escherichia coli strain MUGSI_319	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42867	Escherichia coli strain MUGSI_47	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42868	Escherichia coli strain MUGSI_55	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42871	Escherichia coli strain MUGSI_9	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42872	Escherichia coli strain MUGSI_90	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.42873	Escherichia coli strain MUGSI_93	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45394	Escherichia coli strain BR03-DEC	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45395	Escherichia coli strain BR07-DEC	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45396	Escherichia coli strain BR10-DEC	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45397	Escherichia coli strain BR12-DEC	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45398	Escherichia coli strain BR14-DEC	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45399	Escherichia coli strain BR25-DEC	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45400	Escherichia coli strain BR29-DEC	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45401	Escherichia coli strain BR32-DEC	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45403	Escherichia coli strain BR64-DEC	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45404	Escherichia coli strain BR43-DEC	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45585	Escherichia coli strain EC_95	ciprofloxacin	12.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45587	Escherichia coli strain EC_89	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45589	Escherichia coli strain EC_66	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45590	Escherichia coli strain EC_72	ciprofloxacin	34.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45591	Escherichia coli strain EC_85	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45592	Escherichia coli strain EC_83	ciprofloxacin	11.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45594	Escherichia coli strain EC_76	ciprofloxacin	15.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45595	Escherichia coli strain EC_96	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45596	Escherichia coli strain EC_90	ciprofloxacin	18.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45597	Escherichia coli strain EC_81	ciprofloxacin	11.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45598	Escherichia coli strain EC_94	ciprofloxacin	10.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45600	Escherichia coli strain EC_77	ciprofloxacin	24.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45602	Escherichia coli strain EC_84	ciprofloxacin	8.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45604	Escherichia coli strain EC_73	ciprofloxacin	24.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45606	Escherichia coli strain EC_75	ciprofloxacin	8.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45607	Escherichia coli strain EC_88	ciprofloxacin	19.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45608	Escherichia coli strain EC_68	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45609	Escherichia coli strain EC_71	ciprofloxacin	8.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45611	Escherichia coli strain EC_97	ciprofloxacin	8.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45614	Escherichia coli strain EC_67	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45616	Escherichia coli strain EC_54	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45617	Escherichia coli strain EC_22	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45618	Escherichia coli strain EC_59	ciprofloxacin	8.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45619	Escherichia coli strain EC_52	ciprofloxacin	8.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45621	Escherichia coli strain EC_58	ciprofloxacin	25.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45622	Escherichia coli strain EC_57	ciprofloxacin	16.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45623	Escherichia coli strain EC_61	ciprofloxacin	8.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45624	Escherichia coli strain EC_56	ciprofloxacin	11.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45625	Escherichia coli strain EC_34_B	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45626	Escherichia coli strain EC_55	ciprofloxacin	10.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45627	Escherichia coli strain EC_65	ciprofloxacin	36.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45628	Escherichia coli strain EC_33_B	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45630	Escherichia coli strain EC_25	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45631	Escherichia coli strain EC_50	ciprofloxacin	8.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45632	Escherichia coli strain EC_32	ciprofloxacin	10.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45633	Escherichia coli strain EC_23	ciprofloxacin	26.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45634	Escherichia coli strain EC_49	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45635	Escherichia coli strain EC_47	ciprofloxacin	10.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45636	Escherichia coli strain EC_48	ciprofloxacin	10.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45640	Escherichia coli strain EC_30	ciprofloxacin	28.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45642	Escherichia coli strain EC_45	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45643	Escherichia coli strain EC_31	ciprofloxacin	27.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45644	Escherichia coli strain EC_44	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45645	Escherichia coli strain EC_21	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45646	Escherichia coli strain EC_26	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45647	Escherichia coli strain EC_34_A	ciprofloxacin	23.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45648	Escherichia coli strain EC_104	ciprofloxacin	33.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45649	Escherichia coli strain EC_03	ciprofloxacin	26.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45650	Escherichia coli strain EC_43	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45651	Escherichia coli strain EC_13	ciprofloxacin	10.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45652	Escherichia coli strain EC_28	ciprofloxacin	11.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45653	Escherichia coli strain EC_42	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45654	Escherichia coli strain EC_40	ciprofloxacin	27.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45655	Escherichia coli strain EC_20	ciprofloxacin	8.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45657	Escherichia coli strain EC_16	ciprofloxacin	9.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45658	Escherichia coli strain EC_39	ciprofloxacin	17.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45660	Escherichia coli strain EC_38	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45661	Escherichia coli strain EC_01	ciprofloxacin	25.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45663	Escherichia coli strain EC_08	ciprofloxacin	11.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45664	Escherichia coli strain EC_37	ciprofloxacin	28.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45666	Escherichia coli strain EC_35_B	ciprofloxacin	34.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45667	Escherichia coli strain EC_36	ciprofloxacin	10.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45670	Escherichia coli strain EC_35_A	ciprofloxacin	27.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45671	Escherichia coli strain EC_102	ciprofloxacin	6.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45672	Escherichia coli strain EC_62	ciprofloxacin	36.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45674	Escherichia coli strain EC_09	ciprofloxacin	15.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45675	Escherichia coli strain EC_07	ciprofloxacin	8.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45845	Escherichia coli strain 103	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45846	Escherichia coli strain URMC_88	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45847	Escherichia coli strain URMC_8	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45848	Escherichia coli strain URMC_50	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45851	Escherichia coli strain URMC_93	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45910	Escherichia coli strain URMC_105	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45916	Escherichia coli strain URMC_108	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.45964	Escherichia coli strain URMC_26	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.48346	Escherichia coli 290	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.48348	Escherichia coli 292	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50222	Escherichia coli strain URMC_92	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50223	Escherichia coli strain URMC_96	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50224	Escherichia coli strain URMC_94	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50225	Escherichia coli strain URMC_9	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50227	Escherichia coli strain URMC_89	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50228	Escherichia coli strain URMC_87	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50232	Escherichia coli strain URMC_83	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50233	Escherichia coli strain URMC_79	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50235	Escherichia coli strain URMC_77	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50237	Escherichia coli strain URMC_72	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50238	Escherichia coli strain URMC_71	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50239	Escherichia coli strain URMC_70	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50240	Escherichia coli strain URMC_7	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50243	Escherichia coli strain URMC_65	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50245	Escherichia coli strain URMC_62	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50246	Escherichia coli strain URMC_61	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50248	Escherichia coli strain URMC_60	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50249	Escherichia coli strain URMC_59	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50251	Escherichia coli strain URMC_56	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50253	Escherichia coli strain URMC_53	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50254	Escherichia coli strain URMC_51	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50256	Escherichia coli strain URMC_48	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50258	Escherichia coli strain URMC_37	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50259	Escherichia coli strain URMC_34	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50262	Escherichia coli strain URMC_3	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50263	Escherichia coli strain URMC_25	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50266	Escherichia coli strain URMC_24	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50268	Escherichia coli strain URMC_86	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50269	Escherichia coli strain URMC_91	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50270	Escherichia coli strain URMC_82	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50271	Escherichia coli strain URMC_80	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50274	Escherichia coli strain URMC_66	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50275	Escherichia coli strain URMC_63	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50277	Escherichia coli strain URMC_58	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50279	Escherichia coli strain URMC_43	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50280	Escherichia coli strain URMC_42	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50282	Escherichia coli strain URMC_39	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50284	Escherichia coli strain URMC_33	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50286	Escherichia coli strain URMC_28	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50287	Escherichia coli strain URMC_2	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50288	Escherichia coli strain URMC_22	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50290	Escherichia coli strain URMC_18	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50291	Escherichia coli strain URMC_17	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50292	Escherichia coli strain URMC_23	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50294	Escherichia coli strain URMC_14	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50297	Escherichia coli strain URMC_10	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50299	Escherichia coli strain URMC_110	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50300	Escherichia coli strain URMC_1	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50301	Escherichia coli strain URMC_109	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50303	Escherichia coli strain URMC_13	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50304	Escherichia coli strain URMC_12	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.50308	Escherichia coli strain MEZEC6	ciprofloxacin	30.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58704	Escherichia coli strain 14037824	ciprofloxacin	0.015	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58705	Escherichia coli strain 14040376	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58706	Escherichia coli strain 14043377	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58708	Escherichia coli strain 14044802	ciprofloxacin	0.015	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58710	Escherichia coli strain 14065450	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58711	Escherichia coli strain 14063820	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58716	Escherichia coli strain 14057877	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58717	Escherichia coli strain 14054555	ciprofloxacin	0.015	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58718	Escherichia coli strain 14062120	ciprofloxacin	0.015	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58719	Escherichia coli strain 14062104	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58720	Escherichia coli strain 14060900	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58721	Escherichia coli strain 14066715	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58723	Escherichia coli strain 14069546	ciprofloxacin	16.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58724	Escherichia coli strain 15038100	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58725	Escherichia coli strain 14091902	ciprofloxacin	16.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58727	Escherichia coli strain 14083136	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58728	Escherichia coli strain 14087995	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58730	Escherichia coli strain 14077295	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58731	Escherichia coli strain 14072934	ciprofloxacin	16.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58734	Escherichia coli strain 15054212	ciprofloxacin	16.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58735	Escherichia coli strain 15056393	ciprofloxacin	8.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58737	Escherichia coli strain 15057173	ciprofloxacin	16.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58740	Escherichia coli strain 15056420	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58769	Escherichia coli strain ENV49	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58770	Escherichia coli strain ENV66	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58771	Escherichia coli strain ENV68	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58772	Escherichia coli strain ENV76	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58773	Escherichia coli strain ENV103	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58774	Escherichia coli strain ENV190	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58775	Escherichia coli strain ENV210	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58776	Escherichia coli strain ENV222	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58777	Escherichia coli strain ENV225	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58778	Escherichia coli strain ENV233	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58779	Escherichia coli strain ENV228	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58780	Escherichia coli strain ENV235	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58784	Escherichia coli strain ENV326	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58785	Escherichia coli strain ENV388	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58789	Escherichia coli strain ENV684	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58790	Escherichia coli strain ENV727	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.58791	Escherichia coli strain ENV704	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.60286	Escherichia coli strain SCAID URN1-2019	ciprofloxacin	35.0	mm	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7565	Escherichia coli strain 402058_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7566	Escherichia coli strain 602370_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7569	Escherichia coli strain 401117_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7570	Escherichia coli strain 200456_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7571	Escherichia coli strain 401886_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7572	Escherichia coli strain 503028_aEPEC	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7573	Escherichia coli strain 504647_aEPEC	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7575	Escherichia coli strain 300795_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7576	Escherichia coli strain 504005_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7579	Escherichia coli strain 100269_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7580	Escherichia coli strain 503225_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7581	Escherichia coli strain 401596_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7582	Escherichia coli strain 202973_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7583	Escherichia coli strain 401174_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7584	Escherichia coli strain 401938_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7617	Escherichia coli strain 202453_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7619	Escherichia coli strain G100788-1A	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7620	Escherichia coli strain 402898	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7621	Escherichia coli strain 402837	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7622	Escherichia coli strain 300073	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7623	Escherichia coli strain 703258_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7624	Escherichia coli strain 302082	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7625	Escherichia coli strain 501016	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7628	Escherichia coli strain 503130_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7631	Escherichia coli strain 500197_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7633	Escherichia coli strain G401436	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7635	Escherichia coli strain 505545	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7636	Escherichia coli strain 204263_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7637	Escherichia coli strain 201488_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7638	Escherichia coli strain 700851	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7639	Escherichia coli strain G503854	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7640	Escherichia coli strain 602206	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7641	Escherichia coli strain 401686	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7643	Escherichia coli strain 102010_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7644	Escherichia coli strain 402074_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7645	Escherichia coli strain 204302_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7646	Escherichia coli strain 201214_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7649	Escherichia coli strain 302700	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7652	Escherichia coli strain 702898_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7654	Escherichia coli strain 402798	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7656	Escherichia coli strain 501029_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7657	Escherichia coli strain 300814_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7658	Escherichia coli strain 202374	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7659	Escherichia coli strain 202521_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7661	Escherichia coli strain 400549_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7663	Escherichia coli strain 402794	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7664	Escherichia coli strain 402138_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7665	Escherichia coli strain 302613	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7666	Escherichia coli strain 702566	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7668	Escherichia coli strain 402078	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7669	Escherichia coli strain 201350	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7670	Escherichia coli strain 202443_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7672	Escherichia coli strain 402097_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7673	Escherichia coli strain 401250_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7674	Escherichia coli strain G702074-2	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7677	Escherichia coli strain 500095	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7678	Escherichia coli strain R402077	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7679	Escherichia coli strain 401352	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7680	Escherichia coli strain 403523	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7681	Escherichia coli strain R302583-2B	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7682	Escherichia coli strain 102014_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7683	Escherichia coli strain 201381_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7684	Escherichia coli strain 401553	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7685	Escherichia coli strain 403308_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7688	Escherichia coli strain 300812_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7690	Escherichia coli strain 500275_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7691	Escherichia coli strain 703063	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7693	Escherichia coli strain 503459_aEPEC	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7694	Escherichia coli strain 103151	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7695	Escherichia coli strain 500989	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7697	Escherichia coli strain 401709_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7698	Escherichia coli strain 504300_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7699	Escherichia coli strain 500618_aEPEC	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7702	Escherichia coli strain R203092-3B	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7703	Escherichia coli strain 503320	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7704	Escherichia coli strain 401082	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7705	Escherichia coli strain 400897_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7706	Escherichia coli strain 504180	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7707	Escherichia coli strain 504528	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7708	Escherichia coli strain 702797	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7709	Escherichia coli strain 504324	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7710	Escherichia coli strain 504718	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7712	Escherichia coli strain 403726_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7713	Escherichia coli strain 702328	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7714	Escherichia coli strain 403066	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7717	Escherichia coli strain 200135_aEPEC	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7718	Escherichia coli strain R203092-3A	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7720	Escherichia coli strain G302551	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7721	Escherichia coli strain 202423_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7723	Escherichia coli strain 400714_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7726	Escherichia coli strain 402654_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7727	Escherichia coli strain 200439_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7728	Escherichia coli strain 302302	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7729	Escherichia coli strain 702971	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7731	Escherichia coli strain 202621_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7732	Escherichia coli strain 302701	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7733	Escherichia coli strain 402743_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7734	Escherichia coli strain R302583-2A	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7735	Escherichia coli strain 201191_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7736	Escherichia coli strain 703273	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7738	Escherichia coli strain G500407	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7740	Escherichia coli strain G500830	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7741	Escherichia coli strain 202317_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7743	Escherichia coli strain 402099_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7744	Escherichia coli strain G504540	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7745	Escherichia coli strain 402767	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7746	Escherichia coli strain 702745_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7749	Escherichia coli strain 503023	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7750	Escherichia coli strain 400998_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7752	Escherichia coli strain 402048_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7754	Escherichia coli strain 402227_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7755	Escherichia coli strain G302544	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7758	Escherichia coli strain 402635	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7759	Escherichia coli strain 102328_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7760	Escherichia coli strain 402480_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7763	Escherichia coli strain 200232	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7765	Escherichia coli strain 202474	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7766	Escherichia coli strain 302710	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7767	Escherichia coli strain 503947_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7769	Escherichia coli strain 102366_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7770	Escherichia coli strain 703975_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7771	Escherichia coli strain 500858_aEPEC	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7774	Escherichia coli strain 503891_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7775	Escherichia coli strain G603423	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7778	Escherichia coli strain 402248_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7779	Escherichia coli strain 402770_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7780	Escherichia coli strain 300086_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7782	Escherichia coli strain 500094	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7784	Escherichia coli strain 703108	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7786	Escherichia coli strain G401529	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7790	Escherichia coli strain 100446	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.7792	Escherichia coli strain 401480_aEPEC	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.88799	Escherichia coli strain OSUCMP42NDM	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.91162	Escherichia coli OSUCMP42NDM	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96418	Escherichia coli VRES0691	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96424	Escherichia coli VRES0698	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96425	Escherichia coli VRES0697	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96426	Escherichia coli VREC0648	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96427	Escherichia coli VRES0699	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96428	Escherichia coli VRES0696	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96430	Escherichia coli VREC0654	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96433	Escherichia coli VRES0694	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96434	Escherichia coli VREC0655	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96437	Escherichia coli VREC0652	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96441	Escherichia coli VRES0706	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96444	Escherichia coli VRES0705	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96445	Escherichia coli VRES0708	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96446	Escherichia coli VRES0709	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96448	Escherichia coli VREC0661	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96451	Escherichia coli VREC0664	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96454	Escherichia coli VRES0701	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96455	Escherichia coli VREC0662	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96456	Escherichia coli VREC0660	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96457	Escherichia coli VRES0703	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96458	Escherichia coli VREC0659	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96462	Escherichia coli VREC0788	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96463	Escherichia coli VREC0675	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96464	Escherichia coli VREC0786	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96466	Escherichia coli VREC1631	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96467	Escherichia coli VREC0686	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96468	Escherichia coli VREC0685	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96469	Escherichia coli VREC0682	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96471	Escherichia coli VREC0667	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96472	Escherichia coli VREC0668	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96473	Escherichia coli VREC0678	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96475	Escherichia coli VREC0670	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96476	Escherichia coli VREC0672	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96477	Escherichia coli VREC0679	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96478	Escherichia coli VREC0669	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96479	Escherichia coli VREC0695	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96481	Escherichia coli VREC0673	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96483	Escherichia coli VREC0699	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96484	Escherichia coli VRES0715	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96486	Escherichia coli VREC0677	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96487	Escherichia coli VREC0696	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96488	Escherichia coli VRES0713	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96490	Escherichia coli VRES0718	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96492	Escherichia coli VREC0693	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96495	Escherichia coli VRES0712	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96496	Escherichia coli VRES0710	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96498	Escherichia coli VREC0702	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96500	Escherichia coli VREC0690	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96501	Escherichia coli VREC0688	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96504	Escherichia coli VREC0704	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96506	Escherichia coli VREC0707	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96507	Escherichia coli VREC0713	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96509	Escherichia coli VRES0740	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96510	Escherichia coli VRES0748	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96512	Escherichia coli VREC0708	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96513	Escherichia coli VREC0712	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96515	Escherichia coli VRES0746	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96516	Escherichia coli VRES0741	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96519	Escherichia coli VRES0745	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96521	Escherichia coli VREC0710	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96522	Escherichia coli VRES0742	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96524	Escherichia coli VREC0716	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96525	Escherichia coli VREC0715	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96527	Escherichia coli VREC0725	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96528	Escherichia coli VREC0721	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96533	Escherichia coli VREC0726	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96535	Escherichia coli VREC0722	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96537	Escherichia coli VREC0729	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96538	Escherichia coli VREC0733	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96539	Escherichia coli VREC0735	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96540	Escherichia coli VREC0736	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96543	Escherichia coli VREC0718	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96544	Escherichia coli VREC0724	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96545	Escherichia coli VREC0728	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96546	Escherichia coli VREC0738	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96547	Escherichia coli VREC0727	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96548	Escherichia coli VREC0732	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96550	Escherichia coli VREC0743	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96551	Escherichia coli VRES0779	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96552	Escherichia coli VRES0781	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96554	Escherichia coli VRES0778	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96555	Escherichia coli VRES0780	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96556	Escherichia coli VRES0783	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96558	Escherichia coli VREC0740	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96559	Escherichia coli VREC0741	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96563	Escherichia coli VREC0749	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96564	Escherichia coli VREC0750	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96568	Escherichia coli VREC0755	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96569	Escherichia coli VREC0754	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96570	Escherichia coli VREC0756	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96571	Escherichia coli VREC1625	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96572	Escherichia coli VREC1624	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96573	Escherichia coli VREC0757	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96574	Escherichia coli VREC0758	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96575	Escherichia coli VREC1622	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96577	Escherichia coli VREC0759	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96581	Escherichia coli VREC0762	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96582	Escherichia coli VREC0764	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96583	Escherichia coli VREC0763	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96584	Escherichia coli VREC0767	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96585	Escherichia coli VREC0761	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96586	Escherichia coli VREC0770	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96589	Escherichia coli VREC0766	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96590	Escherichia coli VREC0776	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96591	Escherichia coli VREC0772	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96592	Escherichia coli VREC0774	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96593	Escherichia coli VREC0771	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96594	Escherichia coli VREC0775	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96595	Escherichia coli VREC0773	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96596	Escherichia coli VREC0799	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96597	Escherichia coli VREC0803	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96598	Escherichia coli VREC0797	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96599	Escherichia coli VREC0790	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96600	Escherichia coli VREC0798	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96601	Escherichia coli VREC0793	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96603	Escherichia coli VREC0802	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96605	Escherichia coli VREC0784	ciprofloxacin	0.19	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96606	Escherichia coli VREC0780	ciprofloxacin	0.125	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96609	Escherichia coli VREC0794	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96611	Escherichia coli VREC0781	ciprofloxacin	0.19	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96612	Escherichia coli VREC0777	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96613	Escherichia coli VREC0778	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96614	Escherichia coli VREC1626	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96615	Escherichia coli VREC0808	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96619	Escherichia coli VREC1627	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96621	Escherichia coli VREC0828	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96622	Escherichia coli VREC0815	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96624	Escherichia coli VREC0804	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96626	Escherichia coli VREC0814	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96628	Escherichia coli VREC0827	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96629	Escherichia coli VREC0810	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96630	Escherichia coli VREC0807	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96631	Escherichia coli VREC0809	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96635	Escherichia coli VREC0818	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96636	Escherichia coli VREC0819	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96639	Escherichia coli VREC0830	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96640	Escherichia coli VREC0834	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96641	Escherichia coli VREC0835	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96644	Escherichia coli VREC0849	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96645	Escherichia coli VREC0850	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96646	Escherichia coli VREC0838	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96648	Escherichia coli VREC0852	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96649	Escherichia coli VREC0844	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96650	Escherichia coli VREC0845	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96651	Escherichia coli VREC0846	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96652	Escherichia coli VREC0847	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96653	Escherichia coli VREC0848	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96654	Escherichia coli VREC0853	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96655	Escherichia coli VREC0840	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96657	Escherichia coli VRES0836	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96658	Escherichia coli VRES0837	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96661	Escherichia coli VREC0841	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96663	Escherichia coli VRES0834	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96664	Escherichia coli VRES0832	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96665	Escherichia coli VREC0843	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96666	Escherichia coli VRES0835	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96667	Escherichia coli VREC0855	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96668	Escherichia coli VREC0854	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96670	Escherichia coli VRES0840	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96672	Escherichia coli VREC0860	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96674	Escherichia coli VREC0861	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96675	Escherichia coli VREC0857	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96677	Escherichia coli VREC0859	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96678	Escherichia coli VREC0862	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96679	Escherichia coli VREC0863	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96680	Escherichia coli VRES0864	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96681	Escherichia coli VRES0860	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96682	Escherichia coli VREC0911	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96683	Escherichia coli VRES0857	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96684	Escherichia coli VRES0858	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96685	Escherichia coli VREC0909	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96686	Escherichia coli VREC0912	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96688	Escherichia coli VREC0908	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96689	Escherichia coli VRES0865	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96690	Escherichia coli VRES0859	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96691	Escherichia coli VRES0862	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96692	Escherichia coli VRES0861	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96694	Escherichia coli VRES0866	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96696	Escherichia coli VREC0872	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96697	Escherichia coli VREC0881	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96699	Escherichia coli VREC0870	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96700	Escherichia coli VREC0871	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96702	Escherichia coli VREC0883	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96703	Escherichia coli VREC0874	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96706	Escherichia coli VRES0912	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96709	Escherichia coli VRES0910	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96710	Escherichia coli VRES0915	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96711	Escherichia coli VRES0917	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96712	Escherichia coli VRES0916	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96713	Escherichia coli VRES0914	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96714	Escherichia coli VRES0873	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96715	Escherichia coli VREC0879	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96716	Escherichia coli VRES0874	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96719	Escherichia coli VRES0869	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96720	Escherichia coli VRES0870	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96723	Escherichia coli VRES0871	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96724	Escherichia coli VRES0868	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96726	Escherichia coli VREC0868	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96729	Escherichia coli VREC0866	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96732	Escherichia coli VREC0889	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96733	Escherichia coli VREC0887	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96734	Escherichia coli VREC0864	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96735	Escherichia coli VREC0884	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96737	Escherichia coli VREC1628	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96738	Escherichia coli VREC1629	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96740	Escherichia coli VREC0892	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96741	Escherichia coli VREC0890	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96743	Escherichia coli VREC0885	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96745	Escherichia coli VREC0905	ciprofloxacin	2.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96746	Escherichia coli VREC0903	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96747	Escherichia coli VREC0907	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96748	Escherichia coli VREC0895	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96749	Escherichia coli VREC0896	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96751	Escherichia coli VREC0894	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96752	Escherichia coli VREC0893	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96753	Escherichia coli VREC0904	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96754	Escherichia coli VREC0897	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96755	Escherichia coli VRES0949	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96757	Escherichia coli VREC0915	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96758	Escherichia coli VREC0900	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96761	Escherichia coli VRES0955	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96763	Escherichia coli VREC0913	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96764	Escherichia coli VRES0956	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96766	Escherichia coli VREC0914	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96767	Escherichia coli VREC0898	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96769	Escherichia coli VRES0952	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96770	Escherichia coli VRES0957	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96772	Escherichia coli VRES0948	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96773	Escherichia coli VREC0916	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96775	Escherichia coli VREC0919	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96776	Escherichia coli VREC0917	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96777	Escherichia coli VREC0918	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96778	Escherichia coli VREC0921	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96780	Escherichia coli VREC0937	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96781	Escherichia coli VREC0936	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96783	Escherichia coli VRES0984	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96784	Escherichia coli VRES0985	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96786	Escherichia coli VREC0927	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96788	Escherichia coli VRES0988	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96789	Escherichia coli VRES0987	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96790	Escherichia coli VRES0986	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96791	Escherichia coli VRES0995	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96793	Escherichia coli VREC0930	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96794	Escherichia coli VREC0929	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96795	Escherichia coli VRES0994	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96796	Escherichia coli VRES0997	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96799	Escherichia coli VREC0938	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96802	Escherichia coli VREC0945	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96803	Escherichia coli VREC0944	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96804	Escherichia coli VREC0942	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96805	Escherichia coli VREC0946	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96808	Escherichia coli VREC0948	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96809	Escherichia coli VREC0939	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96810	Escherichia coli VREC0940	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96812	Escherichia coli VREC0947	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96813	Escherichia coli VREC0967	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96814	Escherichia coli VREC0971	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96815	Escherichia coli VREC0968	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96817	Escherichia coli VREC0970	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96818	Escherichia coli VREC0972	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96819	Escherichia coli VREC0969	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96821	Escherichia coli VREC0964	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96822	Escherichia coli VREC0963	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96823	Escherichia coli VREC0951	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96824	Escherichia coli VREC0952	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96825	Escherichia coli VREC0958	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96826	Escherichia coli VREC0962	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96827	Escherichia coli VREC0960	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96828	Escherichia coli VREC0974	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96829	Escherichia coli VREC0961	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96832	Escherichia coli VREC0954	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96833	Escherichia coli VREC0953	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96834	Escherichia coli VREC0956	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96835	Escherichia coli VREC0955	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96836	Escherichia coli VREC0957	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96837	Escherichia coli VREC0959	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96839	Escherichia coli VREC0978	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96840	Escherichia coli VREC0982	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96841	Escherichia coli VREC0985	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96842	Escherichia coli VREC0976	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96843	Escherichia coli VREC0979	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96844	Escherichia coli VREC0977	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96846	Escherichia coli VREC0983	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96847	Escherichia coli VRES1047	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96850	Escherichia coli VREC0987	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96851	Escherichia coli VRES1035	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96852	Escherichia coli VRES1043	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96854	Escherichia coli VRES1038	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96856	Escherichia coli VRES1040	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96858	Escherichia coli VREC0989	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96859	Escherichia coli VREC0990	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96860	Escherichia coli VRES1044	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96861	Escherichia coli VREC0988	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96862	Escherichia coli VRES1046	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96864	Escherichia coli VREC0992	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96865	Escherichia coli VREC0997	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96868	Escherichia coli VREC0993	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96870	Escherichia coli VREC0999	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96871	Escherichia coli VRES1092	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96874	Escherichia coli VRES1091	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96876	Escherichia coli VREC1001	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96877	Escherichia coli VREC0998	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96879	Escherichia coli VREC1003	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96881	Escherichia coli VRES1097	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96882	Escherichia coli VRES1095	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96883	Escherichia coli VREC1006	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96887	Escherichia coli VREC1007	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96888	Escherichia coli VREC1005	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96891	Escherichia coli VREC1020	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96893	Escherichia coli VREC1021	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96895	Escherichia coli VREC1014	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96897	Escherichia coli VREC1015	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96898	Escherichia coli VREC1016	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96899	Escherichia coli VREC1013	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96901	Escherichia coli VRES1102	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96903	Escherichia coli VRES1103	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96905	Escherichia coli VRES1105	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96907	Escherichia coli VRES1108	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96908	Escherichia coli VRES1101	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96911	Escherichia coli VREC1009	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96912	Escherichia coli VREC1023	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96913	Escherichia coli VREC1025	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96914	Escherichia coli VREC1011	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96915	Escherichia coli VREC1024	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96916	Escherichia coli VREC1010	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96918	Escherichia coli VREC1026	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96924	Escherichia coli VREC1047	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96926	Escherichia coli VREC1030	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96927	Escherichia coli VREC1043	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96929	Escherichia coli VREC1032	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96933	Escherichia coli VRES1614	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96934	Escherichia coli VRES1613	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96937	Escherichia coli VRES1616	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96941	Escherichia coli VRES1191	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96942	Escherichia coli VRES1189	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96944	Escherichia coli VRES1184	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96946	Escherichia coli VRES1186	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96949	Escherichia coli VRES1160	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96952	Escherichia coli VRES1621	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96955	Escherichia coli VREC1072	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96956	Escherichia coli VREC1070	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96957	Escherichia coli VRES1162	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96958	Escherichia coli VRES1161	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96959	Escherichia coli VREC1101	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96960	Escherichia coli VREC1102	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96961	Escherichia coli VREC1103	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96962	Escherichia coli VREC1054	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96963	Escherichia coli VREC1059	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96964	Escherichia coli VREC1062	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96965	Escherichia coli VRES1169	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96968	Escherichia coli VREC1056	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96969	Escherichia coli VREC1060	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96970	Escherichia coli VREC1063	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96973	Escherichia coli VREC1053	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96975	Escherichia coli VRES1165	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96979	Escherichia coli VRES1167	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96980	Escherichia coli VRES1166	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96981	Escherichia coli VRES1168	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96982	Escherichia coli VREC1048	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96983	Escherichia coli VREC1050	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96984	Escherichia coli VREC1051	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96986	Escherichia coli VREC1052	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96987	Escherichia coli VREC1065	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96988	Escherichia coli VREC1067	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96989	Escherichia coli VREC1069	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96990	Escherichia coli VREC1066	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96992	Escherichia coli VRES1150	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96993	Escherichia coli VRES1154	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96994	Escherichia coli VRES1153	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96995	Escherichia coli VRES1152	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.96997	Escherichia coli VRES1157	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97000	Escherichia coli VRES1158	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97001	Escherichia coli VREC1113	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97002	Escherichia coli VREC1112	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97003	Escherichia coli VREC1111	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97004	Escherichia coli VRES1156	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97005	Escherichia coli VREC1114	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97006	Escherichia coli VREC1108	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97007	Escherichia coli VREC1109	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97008	Escherichia coli VREC1106	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97009	Escherichia coli VREC1107	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97010	Escherichia coli VREC1115	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97011	Escherichia coli VREC1118	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97013	Escherichia coli VREC1119	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97014	Escherichia coli VREC1116	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97015	Escherichia coli VREC1117	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97016	Escherichia coli VREC1110	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97017	Escherichia coli VREC1123	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97018	Escherichia coli VREC1124	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97019	Escherichia coli VREC1122	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97020	Escherichia coli VRES1202	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97021	Escherichia coli VRES1195	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97023	Escherichia coli VRES1197	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97024	Escherichia coli VREC1164	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97025	Escherichia coli VRES1200	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97026	Escherichia coli VREC1156	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97028	Escherichia coli VRES1199	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97030	Escherichia coli VREC1125	ciprofloxacin	0.5	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97034	Escherichia coli VREC1163	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97037	Escherichia coli VREC1157	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97038	Escherichia coli VREC1160	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97039	Escherichia coli VREC1155	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97041	Escherichia coli VREC1154	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97042	Escherichia coli VREC1153	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97043	Escherichia coli VREC1159	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97046	Escherichia coli VREC1171	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97047	Escherichia coli VREC1174	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97049	Escherichia coli VREC1175	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97051	Escherichia coli VREC1166	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97054	Escherichia coli VREC1169	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97055	Escherichia coli VREC1177	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97056	Escherichia coli VREC1176	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97059	Escherichia coli VREC1182	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97060	Escherichia coli VREC1183	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97063	Escherichia coli VREC1180	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97066	Escherichia coli VREC1179	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97067	Escherichia coli VREC1184	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97070	Escherichia coli VRES1307	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97071	Escherichia coli VRES1309	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97073	Escherichia coli VREC1191	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97074	Escherichia coli VRES1304	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97076	Escherichia coli VRES1305	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97077	Escherichia coli VREC1194	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97078	Escherichia coli VREC1192	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97079	Escherichia coli VREC1193	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97080	Escherichia coli VREC1196	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97081	Escherichia coli VREC1195	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97082	Escherichia coli VREC1201	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97083	Escherichia coli VREC1200	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97084	Escherichia coli VREC1189	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97088	Escherichia coli VREC1186	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97089	Escherichia coli VREC1188	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97090	Escherichia coli VREC1204	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97092	Escherichia coli VREC1203	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97093	Escherichia coli VREC1216	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97094	Escherichia coli VREC1215	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97098	Escherichia coli VREC1232	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97102	Escherichia coli VREC1207	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97103	Escherichia coli VRES1347	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97104	Escherichia coli VREC1206	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97107	Escherichia coli VREC1230	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97108	Escherichia coli VRES1350	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97109	Escherichia coli VRES1346	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97112	Escherichia coli VREC1256	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97113	Escherichia coli VREC1209	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97117	Escherichia coli VREC1632	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97118	Escherichia coli VRES1351	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97120	Escherichia coli VRES1349	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97121	Escherichia coli VREC1211	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97122	Escherichia coli VREC1205	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97123	Escherichia coli VREC1219	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97124	Escherichia coli VREC1212	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97125	Escherichia coli VREC1213	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97126	Escherichia coli VREC1214	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97127	Escherichia coli VREC1210	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97129	Escherichia coli VREC1261	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97131	Escherichia coli VREC1263	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97133	Escherichia coli VREC1259	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97134	Escherichia coli VREC1266	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97135	Escherichia coli VREC1265	ciprofloxacin	1.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97136	Escherichia coli VREC1282	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97137	Escherichia coli VREC1283	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97138	Escherichia coli VREC1284	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97139	Escherichia coli VREC1285	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97141	Escherichia coli VREC1287	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97143	Escherichia coli VREC1289	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97145	Escherichia coli VREC1290	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97146	Escherichia coli VREC1278	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97150	Escherichia coli VREC1281	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97151	Escherichia coli VREC1280	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97152	Escherichia coli VREC1323	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97153	Escherichia coli VREC1322	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97154	Escherichia coli VREC1295	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97155	Escherichia coli VREC1294	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97156	Escherichia coli VREC1324	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97158	Escherichia coli VREC1293	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97159	Escherichia coli VREC1292	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97160	Escherichia coli VREC1325	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97164	Escherichia coli VRES1382	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97165	Escherichia coli VRES1381	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97166	Escherichia coli VREC1299	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97168	Escherichia coli VREC1298	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97169	Escherichia coli VRES1378	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97170	Escherichia coli VREC1301	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97173	Escherichia coli VREC1297	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97174	Escherichia coli VREC1300	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97175	Escherichia coli VRES1384	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97176	Escherichia coli VREC1302	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97178	Escherichia coli VREC1312	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97179	Escherichia coli VREC1314	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97180	Escherichia coli VREC1313	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97181	Escherichia coli VREC1307	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97182	Escherichia coli VREC1303	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97183	Escherichia coli VREC1306	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97185	Escherichia coli VREC1309	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97186	Escherichia coli VREC1310	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97188	Escherichia coli VREC1304	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97189	Escherichia coli VREC1308	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97190	Escherichia coli VREC1316	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97191	Escherichia coli VREC1315	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97192	Escherichia coli VREC1341	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97193	Escherichia coli VREC1342	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97194	Escherichia coli VREC1344	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97195	Escherichia coli VREC1345	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97198	Escherichia coli VREC1348	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97200	Escherichia coli VREC1347	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97201	Escherichia coli VREC1346	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97202	Escherichia coli VREC1367	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97203	Escherichia coli VREC1350	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97204	Escherichia coli VREC1369	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97205	Escherichia coli VREC1368	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97206	Escherichia coli VREC1352	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97207	Escherichia coli VREC1355	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97210	Escherichia coli VREC1372	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97211	Escherichia coli VREC1371	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97212	Escherichia coli VREC1370	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97214	Escherichia coli VREC1389	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97218	Escherichia coli VREC1396	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97219	Escherichia coli VREC1390	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97220	Escherichia coli VREC1388	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97221	Escherichia coli VREC1387	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97222	Escherichia coli VRES1434	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97223	Escherichia coli VREC1383	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97224	Escherichia coli VRES1430	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97225	Escherichia coli VREC1382	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97227	Escherichia coli VREC1384	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97228	Escherichia coli VRES1432	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97231	Escherichia coli VREC1386	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97232	Escherichia coli VREC1637	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97234	Escherichia coli VREC1635	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97238	Escherichia coli VRES1438	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97239	Escherichia coli VRES1437	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97241	Escherichia coli VRES1422	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97242	Escherichia coli VRES1421	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97245	Escherichia coli VRES1423	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97248	Escherichia coli VREC1380	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97249	Escherichia coli VREC1406	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97250	Escherichia coli VREC1409	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97251	Escherichia coli VREC1378	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97253	Escherichia coli VRES1428	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97256	Escherichia coli VREC1394	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97258	Escherichia coli VREC1412	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97259	Escherichia coli VREC1408	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97260	Escherichia coli VRES1490	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97261	Escherichia coli VREC1392	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97262	Escherichia coli VREC1405	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97263	Escherichia coli VREC1403	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97264	Escherichia coli VREC1395	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97265	Escherichia coli VRES1488	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97267	Escherichia coli VREC1407	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97269	Escherichia coli VREC1377	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97270	Escherichia coli VRES1429	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97271	Escherichia coli VRES1445	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97273	Escherichia coli VRES1493	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97275	Escherichia coli VRES1497	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97277	Escherichia coli VRES1492	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97279	Escherichia coli VREC1413	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97280	Escherichia coli VREC1415	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97282	Escherichia coli VREC1417	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97285	Escherichia coli VREC1084	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97286	Escherichia coli VREC1076	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97288	Escherichia coli VREC1082	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97289	Escherichia coli VREC1078	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97290	Escherichia coli VREC1085	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97291	Escherichia coli VREC1429	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97292	Escherichia coli VREC1087	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97293	Escherichia coli VREC1086	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97294	Escherichia coli VREC1428	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97295	Escherichia coli VREC1080	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97296	Escherichia coli VREC1083	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97298	Escherichia coli VREC1431	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97300	Escherichia coli VRES1499	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97302	Escherichia coli VRES1502	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97303	Escherichia coli VRES1501	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97304	Escherichia coli VRES1500	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97305	Escherichia coli VRES1507	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97307	Escherichia coli VRES1503	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97310	Escherichia coli VREC1423	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97311	Escherichia coli VREC1424	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97312	Escherichia coli VREC1425	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97314	Escherichia coli VREC1418	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97315	Escherichia coli VREC1426	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97317	Escherichia coli VREC1445	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97319	Escherichia coli VREC1421	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97321	Escherichia coli VREC1422	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97322	Escherichia coli VREC1446	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97323	Escherichia coli VREC1447	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97324	Escherichia coli VREC1419	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97325	Escherichia coli VREC1439	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97326	Escherichia coli VREC1420	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97327	Escherichia coli VREC1436	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97328	Escherichia coli VREC1449	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97329	Escherichia coli VREC1460	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97330	Escherichia coli VREC1461	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97331	Escherichia coli VREC1462	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97333	Escherichia coli VREC1459	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97335	Escherichia coli VREC1450	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97336	Escherichia coli VREC1448	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97337	Escherichia coli VREC1464	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97339	Escherichia coli VREC1437	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97341	Escherichia coli VREC1442	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97345	Escherichia coli VREC1434	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97346	Escherichia coli VREC1440	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97348	Escherichia coli VREC1467	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97349	Escherichia coli VREC1469	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97350	Escherichia coli VREC1468	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97352	Escherichia coli VREC1465	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97353	Escherichia coli VREC1473	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97354	Escherichia coli VREC1489	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97355	Escherichia coli VREC1472	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97356	Escherichia coli VREC1474	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97358	Escherichia coli VREC1480	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97359	Escherichia coli VREC1477	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97361	Escherichia coli VREC1478	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97363	Escherichia coli VREC1476	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97365	Escherichia coli VREC1491	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97369	Escherichia coli VREC1486	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97370	Escherichia coli VREC1481	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97371	Escherichia coli VREC1484	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97372	Escherichia coli VREC1487	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97373	Escherichia coli VREC1493	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97374	Escherichia coli VREC1502	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97375	Escherichia coli VREC1495	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97378	Escherichia coli VREC1494	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97380	Escherichia coli VREC1488	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97383	Escherichia coli VREC1505	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97384	Escherichia coli VREC1501	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97385	Escherichia coli VREC1499	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97386	Escherichia coli VREC1497	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97389	Escherichia coli VREC1512	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97391	Escherichia coli VREC1507	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97392	Escherichia coli VREC1510	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97393	Escherichia coli VREC1511	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97394	Escherichia coli VREC1509	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97396	Escherichia coli VREC1525	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97399	Escherichia coli VREC1520	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97401	Escherichia coli VREC1516	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97402	Escherichia coli VREC1519	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97403	Escherichia coli VREC1518	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97404	Escherichia coli VREC1530	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97405	Escherichia coli VREC1523	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97406	Escherichia coli VREC1517	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97407	Escherichia coli VREC1529	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97409	Escherichia coli VREC1524	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97410	Escherichia coli VREC1514	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97411	Escherichia coli VREC1526	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97412	Escherichia coli VREC1568	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97414	Escherichia coli VREC1543	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97415	Escherichia coli VREC1549	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97416	Escherichia coli VREC1544	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97418	Escherichia coli VREC1547	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97419	Escherichia coli VREC1570	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97421	Escherichia coli VREC1563	ciprofloxacin	0.125	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97422	Escherichia coli VREC1551	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97424	Escherichia coli VREC1553	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97425	Escherichia coli VREC1566	ciprofloxacin	0.125	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97426	Escherichia coli VREC1542	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97428	Escherichia coli VREC1541	ciprofloxacin	0.19	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97429	Escherichia coli VREC1555	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97431	Escherichia coli VREC1564	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97433	Escherichia coli VREC1552	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97434	Escherichia coli VREC1550	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97435	Escherichia coli VREC1567	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97437	Escherichia coli VREC1546	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97438	Escherichia coli VREC1557	ciprofloxacin	0.125	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97439	Escherichia coli VREC1560	ciprofloxacin	0.125	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97440	Escherichia coli VREC1559	ciprofloxacin	0.19	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97442	Escherichia coli VREC1561	ciprofloxacin	0.19	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97443	Escherichia coli VREC1558	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97444	Escherichia coli VREC1573	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97445	Escherichia coli VREC1575	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97447	Escherichia coli VREC1582	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97448	Escherichia coli VREC1583	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97449	Escherichia coli VREC1587	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97451	Escherichia coli VREC1589	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97452	Escherichia coli VREC1585	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97454	Escherichia coli VREC1584	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97455	Escherichia coli VREC1590	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97457	Escherichia coli VRES1592	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97458	Escherichia coli VRES1589	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97461	Escherichia coli VRES1588	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97463	Escherichia coli VRES1463	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97464	Escherichia coli VRES1596	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97465	Escherichia coli VREC1594	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97466	Escherichia coli VREC1088	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97467	Escherichia coli VRES1464	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97468	Escherichia coli VREC1593	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97469	Escherichia coli VRES1597	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97470	Escherichia coli VRES1594	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97472	Escherichia coli VREC1595	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97473	Escherichia coli VREC1597	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97474	Escherichia coli VRES1465	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97475	Escherichia coli VREC1599	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97477	Escherichia coli VRES1466	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97478	Escherichia coli VREC1596	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97479	Escherichia coli VRES1471	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97484	Escherichia coli VREC1621	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97486	Escherichia coli VREC1617	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97487	Escherichia coli VREC1616	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97490	Escherichia coli VREC1641	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97492	Escherichia coli VRES1470	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97493	Escherichia coli VREC1638	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97495	Escherichia coli VREC1619	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97496	Escherichia coli VREC1618	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97497	Escherichia coli VREC1640	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97498	Escherichia coli VRES1469	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97499	Escherichia coli VRES1468	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97500	Escherichia coli VRES1467	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97501	Escherichia coli VREC1600	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97502	Escherichia coli VREC1237	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97504	Escherichia coli VREC1249	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97505	Escherichia coli VREC1642	ciprofloxacin	0.25	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97507	Escherichia coli VREC1244	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97508	Escherichia coli VREC1240	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97509	Escherichia coli VREC1239	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97510	Escherichia coli VREC1254	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli
+562.97514	Escherichia coli VREC1250	ciprofloxacin	4.0	mg/L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Escherichia coli

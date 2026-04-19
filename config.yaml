@@ -1,0 +1,68 @@
+experiment:
+  name: amr_adversarial_v1
+  seed: 42
+  log_dir: runs/
+  checkpoint_dir: checkpoints/
+  use_wandb: false
+env:
+  pathogen: e_coli
+  drug: ciprofloxacin
+  max_episode_steps: 14
+  bacterial_load_init: 1.0e8
+  target_load: 1.0e3
+  max_dose: 400.0
+pkpd:
+  volume_of_distribution: 2.5
+  half_life_hours: 4.0
+  bioavailability: 0.85
+  protein_binding: 0.3
+  e_max: 1.0
+  ec50: 0.1
+  hill_coefficient: 1.5
+reward:
+  w_clearance: 5.0
+  w_load: -0.01
+  w_dose: -0.005
+  w_resistance: -2.0
+  msw_penalty: -1.5
+  gamma: 0.99
+resistance:
+  architecture: mlp
+  hidden_dims:
+  - 256
+  - 256
+  - 128
+  dropout: 0.15
+  n_resistance_states: 5
+  fitness_cost_slope: 0.08
+  adversarial_lr: 0.0003
+  adversarial_update_freq: 4
+policy:
+  algorithm: PPO
+  learning_rate: 0.0003
+  n_steps: 2048
+  batch_size: 64
+  n_epochs: 10
+  gamma: 0.99
+  gae_lambda: 0.95
+  clip_range: 0.2
+  ent_coef: 0.01
+  vf_coef: 0.5
+  max_grad_norm: 0.5
+  total_timesteps: 2000000
+  net_arch:
+  - 256
+  - 256
+adversarial:
+  mode: minimax
+  patience: 50000
+  resistance_budget: 0.3
+  co_train_ratio: 4
+baselines:
+  cycling_period: 3
+  bandit_epsilon: 0.1
+eval:
+  n_eval_episodes: 500
+  ood_mutation_profiles: 20
+  survival_analysis_horizon: 30
+  checkpoint_freq: 100000

@@ -1,0 +1,16 @@
+gyrA_S83L
+gyrA_D87N
+parC_S80I
+parC_E84V
+qnrA
+qnrB
+qnrC
+qnrD
+qnrS
+aac(6')-Ib-cr
+oqxA
+oqxB
+marR
+soxR
+tolC
+acrB

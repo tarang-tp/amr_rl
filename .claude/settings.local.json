@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python scripts/smoke_test.py)",
+      "Bash(pip install *)",
+      "Bash(python *)",
+      "Bash(taskkill /F /FI \"WINDOWTITLE eq python*\" /IM python.exe)",
+      "Bash(pkill -f \"download_data.py\")",
+      "Bash(taskkill //F //IM python.exe)"
+    ]
+  }
+}
