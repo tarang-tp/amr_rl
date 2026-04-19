@@ -96,7 +96,7 @@ class AMREnv(gym.Env):
         self._base_fitness_cost_slope = fitness_cost_slope
         self._base_ec50 = self.pkpd.pd.ec50
         self.reward_fn = RewardFunction(reward_config or RewardConfig(
-            target_load=target_load, initial_load=bacterial_load_init
+            target_load=self.target_load, initial_load=self.bacterial_load_init
         ))
 
         # Action space
