@@ -80,9 +80,9 @@ class AMREnv(gym.Env):
         super().__init__()
         self.drug = drug
         self.pathogen = pathogen
-        self.max_episode_steps = max_episode_steps
-        self.bacterial_load_init = bacterial_load_init
-        self.target_load = target_load
+        self.max_episode_steps = int(max_episode_steps)
+        self.bacterial_load_init = float(bacterial_load_init)
+        self.target_load = float(target_load)
         self.fitness_cost_slope = fitness_cost_slope
         self.resistance_model = resistance_model
         self.continuous_actions = continuous_actions
