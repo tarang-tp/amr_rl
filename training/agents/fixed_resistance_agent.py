@@ -177,15 +177,31 @@ def main():
             "bacterial_load_init": cfg["env"]["bacterial_load_init"],
             "target_load": cfg["env"]["target_load"],
         }
-        ts = args.total_timesteps or cfg["policy"]["total_timesteps"]
+        pol = cfg["policy"]
+        policy_kwargs = {
+            "learning_rate":  pol["learning_rate"],
+            "n_steps":        pol["n_steps"],
+            "batch_size":     pol["batch_size"],
+            "n_epochs":       pol["n_epochs"],
+            "gamma":          pol["gamma"],
+            "gae_lambda":     pol["gae_lambda"],
+            "clip_range":     pol["clip_range"],
+            "ent_coef":       pol["ent_coef"],
+            "vf_coef":        pol["vf_coef"],
+            "max_grad_norm":  pol["max_grad_norm"],
+            "policy_kwargs":  {"net_arch": pol["net_arch"]},
+        }
+        ts = args.total_timesteps or pol["total_timesteps"]
     except FileNotFoundError:
         env_kwargs = {}
+        policy_kwargs = {}
         ts = args.total_timesteps or 1_000_000
 
     train_fixed_resistance_ppo(
         resistance_mode=args.resistance_mode,
         total_timesteps=ts,
         env_kwargs=env_kwargs,
+        policy_kwargs=policy_kwargs,
         seed=args.seed,
         device=args.device,
     )
