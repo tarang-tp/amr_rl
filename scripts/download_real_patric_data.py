@@ -144,5 +144,28 @@ def download_real_patric_data():
     print(f" -> {len(df_final)} Isolates")
     print("--------------------------------------------------")
 
+def dry_run():
+    """Print stats about the existing data file without hitting the API."""
+    tsv = Path("data/patric_amr.tsv")
+    genes = Path("data/card_genes.txt")
+    if tsv.exists():
+        df = pd.read_csv(tsv, sep="\t")
+        print(f"Dry run — existing data: {len(df)} isolates, {len(df.columns)} columns")
+        print(f"  {tsv}")
+    else:
+        print(f"Dry run — {tsv} not found; run without --dry_run to download")
+    if genes.exists():
+        n = sum(1 for _ in open(genes))
+        print(f"  {genes} ({n} genes)")
+
+
 if __name__ == "__main__":
-    download_real_patric_data()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dry_run", action="store_true",
+                        help="Skip download; report existing data file stats")
+    args = parser.parse_args()
+    if args.dry_run:
+        dry_run()
+    else:
+        download_real_patric_data()
