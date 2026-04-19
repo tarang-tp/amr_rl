@@ -30,6 +30,12 @@ import yaml
 import numpy as np
 import torch
 
+# TF32 gives free throughput on Ampere/Blackwell GPUs with no meaningful
+# precision loss for RL workloads.
+torch.backends.cuda.matmul.allow_tf32 = True
+torch.backends.cudnn.allow_tf32 = True
+torch.set_float32_matmul_precision("high")
+
 # Ensure project root is on path when run as script
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
