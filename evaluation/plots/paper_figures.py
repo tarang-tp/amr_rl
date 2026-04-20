@@ -216,9 +216,15 @@ def plot_load_traces(
 
     for name, ep_traces in traces.items():
         color = PALETTE.get(name, "#333333")
-        arr = np.array([t for t in ep_traces if len(t) > 0])
-        if len(arr) == 0:
+        valid = [t for t in ep_traces if len(t) > 0]
+        if not valid:
             continue
+        max_len = max(len(t) for t in valid)
+        # Pad shorter episodes with their last value so all traces are the same length
+        padded = np.array([
+            list(t) + [t[-1]] * (max_len - len(t)) for t in valid
+        ], dtype=np.float64)
+        arr = padded
 
         # Median + IQR
         med = np.median(arr, axis=0)
