@@ -22,12 +22,12 @@ import sys
 from pathlib import Path
 
 import numpy as np
-import yaml
 from stable_baselines3 import PPO
 from stable_baselines3.common.vec_env import DummyVecEnv, VecMonitor
 from stable_baselines3.common.callbacks import EvalCallback
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+from scripts.config_utils import load_config as _load_config_cast
 
 from simulator.envs.amr_env import AMREnv
 
@@ -169,8 +169,7 @@ def main():
     args = parser.parse_args()
 
     try:
-        with open(args.config) as f:
-            cfg = yaml.safe_load(f)
+        cfg = _load_config_cast(args.config)
         env_kwargs = {
             "drug": cfg["env"]["drug"],
             "max_episode_steps": cfg["env"]["max_episode_steps"],

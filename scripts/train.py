@@ -26,7 +26,6 @@ import logging
 import sys
 from pathlib import Path
 
-import yaml
 import numpy as np
 import torch
 
@@ -39,6 +38,8 @@ torch.set_float32_matmul_precision("high")
 # Ensure project root is on path when run as script
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
+from scripts.config_utils import load_config
+
 from training.adversarial.co_trainer import AdversarialCoTrainer
 
 logging.basicConfig(
@@ -48,10 +49,6 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-
-def load_config(path: str) -> dict:
-    with open(path) as f:
-        return yaml.safe_load(f)
 
 
 def build_trainer(cfg: dict, args: argparse.Namespace) -> AdversarialCoTrainer:

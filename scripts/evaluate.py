@@ -31,9 +31,10 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
-import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from scripts.config_utils import load_config as _load_config_cast, _cast
 
 from simulator.envs.amr_env import AMREnv
 from resistance.model.resistance_model import AdversarialResistanceModel
@@ -275,16 +276,15 @@ def _generate_resistance_heatmap(env: AMREnv, cfg: dict, fig_dir: Path) -> None:
 
 def load_config_safe(path: str) -> dict:
     try:
-        with open(path) as f:
-            return yaml.safe_load(f)
+        return _load_config_cast(path)
     except FileNotFoundError:
         log.warning(f"Config not found at {path}, using defaults")
-        return {
+        return _cast({
             "env": {"drug": "ciprofloxacin", "pathogen": "e_coli",
                     "max_episode_steps": 14, "bacterial_load_init": 1e8, "target_load": 1e3},
             "resistance": {"fitness_cost_slope": 0.08},
             "baselines": {"cycling_period": 3, "bandit_epsilon": 0.1},
-        }
+        })
 
 
 if __name__ == "__main__":
