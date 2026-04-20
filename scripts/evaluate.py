@@ -101,7 +101,7 @@ def run_all_evaluations(
             resistance_profiles=ood_profiles,
             policy_name=name,
         )
-        ood[name].ood_gap = compute_ood_gap(in_dist[name], ood[name])
+        in_dist[name].ood_gap = compute_ood_gap(in_dist[name], ood[name])
 
     return in_dist, ood
 

@@ -20,7 +20,7 @@ pkpd:
   ec50: 0.1
   hill_coefficient: 1.5
 reward:
-  w_clearance: 5.0
+  w_clearance: 25.0
   w_load: -0.01
   w_dose: -0.005
   w_resistance: -2.0
