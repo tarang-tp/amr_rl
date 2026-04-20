@@ -72,7 +72,7 @@ def make_env(cfg: dict, resistance_model=None) -> AMREnv:
         pathogen=cfg["env"]["pathogen"],
         max_episode_steps=cfg["env"]["max_episode_steps"],
         bacterial_load_init=cfg["env"]["bacterial_load_init"],
-        target_load=cfg["env"]["target_load"],
+        target_load=float(cfg["env"]["target_load"]),
         fitness_cost_slope=cfg["resistance"]["fitness_cost_slope"],
         resistance_model=resistance_model,
         seed=0,
@@ -225,7 +225,7 @@ def main():
     plot_load_traces(
         load_traces,
         output_path=str(fig_dir / "fig4_load_traces.pdf"),
-        target_load=cfg["env"]["target_load"],
+        target_load=float(cfg["env"]["target_load"]),
     )
 
     # Fig 5: Resistance heatmap
