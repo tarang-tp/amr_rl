@@ -97,6 +97,9 @@ def build_trainer(cfg: dict, args: argparse.Namespace) -> AdversarialCoTrainer:
 
     total_ts = args.total_timesteps or pol_cfg["total_timesteps"]
 
+    env_kwargs["warm_start_frac"] = 0.1
+    env_kwargs["total_timesteps"] = total_ts
+
     return AdversarialCoTrainer(
         env_kwargs=env_kwargs,
         policy_kwargs=policy_kwargs,

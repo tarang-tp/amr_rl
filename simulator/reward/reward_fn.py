@@ -19,11 +19,12 @@ from dataclasses import dataclass
 
 @dataclass
 class RewardConfig:
-    w_clearance: float = 5.0       # terminal bonus for reaching target_load
+    w_clearance: float = 25.0      # terminal bonus for reaching target_load
     w_load: float = -0.01          # per-step, multiplied by log10(N/N0)
     w_dose: float = -0.005         # per-unit-dose toxicity
     w_resistance: float = -2.0     # per resistance-level increase event
     msw_penalty: float = -1.5      # scaling factor for MSW exposure
+    w_progress: float = 0.5        # dense shaping: reward per unit log10 load reduction
     target_load: float = 1e3       # CFU/mL — clinical clearance threshold
     initial_load: float = 1e8      # CFU/mL — episode starting load
 
@@ -75,7 +76,14 @@ class RewardFunction:
         reward += msw_pen
         components["msw"] = msw_pen
 
-        # 5. Terminal clearance bonus
+        # 5. Dense progress shaping: reward proportional to log-load reduction this step
+        progress = cfg.w_progress * (
+            np.log10(max(prev_load, 1.0)) - np.log10(max(bacterial_load, 1.0))
+        )
+        reward += progress
+        components["progress"] = progress
+
+        # 6. Terminal clearance bonus
         clearance_bonus = 0.0
         if done and bacterial_load <= cfg.target_load:
             clearance_bonus = cfg.w_clearance

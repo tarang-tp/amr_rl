@@ -47,6 +47,14 @@ def _cast(cfg: dict) -> dict:
     adv = cfg.get("adversarial", {})
     adv["co_train_ratio"] = int(adv.get("co_train_ratio", 4))
 
+    rew = cfg.get("reward", {})
+    if "w_clearance"  in rew: rew["w_clearance"]  = float(rew["w_clearance"])
+    if "w_load"       in rew: rew["w_load"]        = float(rew["w_load"])
+    if "w_dose"       in rew: rew["w_dose"]        = float(rew["w_dose"])
+    if "w_resistance" in rew: rew["w_resistance"]  = float(rew["w_resistance"])
+    if "msw_penalty"  in rew: rew["msw_penalty"]   = float(rew["msw_penalty"])
+    if "w_progress"   in rew: rew["w_progress"]    = float(rew["w_progress"])
+
     bl = cfg.get("baselines", {})
     bl["cycling_period"]  = int(bl.get("cycling_period", 3))
     bl["bandit_epsilon"]  = float(bl.get("bandit_epsilon", 0.1))

@@ -76,6 +76,8 @@ class AMREnv(gym.Env):
         seed: Optional[int] = None,
         ec50_predictor=None,               # callable(genotype_features) -> float (EC50 multiplier)
         n_gene_features: int = 16,         # dimension of genotype feature vector
+        warm_start_frac: float = 0.0,      # fraction of total_timesteps to apply episode warm-start
+        total_timesteps: int = 0,          # used only with warm_start_frac > 0
     ):
         super().__init__()
         self.drug = drug
@@ -98,6 +100,9 @@ class AMREnv(gym.Env):
         self.reward_fn = RewardFunction(reward_config or RewardConfig(
             target_load=self.target_load, initial_load=self.bacterial_load_init
         ))
+
+        self._warm_start_steps = int(warm_start_frac * total_timesteps)
+        self._env_step_count: int = 0
 
         # Action space
         if continuous_actions:
@@ -157,6 +162,21 @@ class AMREnv(gym.Env):
             multiplier = float(self.ec50_predictor(genotype))
             self._current_ec50_multiplier = multiplier
             self.pkpd.pd.ec50 = self._base_ec50 * multiplier
+
+        # Warm start: simulate 1–3 pre-treatment doses so the agent sees
+        # partially-cleared states early in training.
+        if self._warm_start_steps > 0 and self._env_step_count < self._warm_start_steps:
+            n_warm = int(self._rng.integers(1, 4))
+            for _ in range(n_warm):
+                warm_dose = float(DOSE_LEVELS[int(self._rng.integers(2, len(DOSE_LEVELS)))])
+                warm_load, _, _ = self.pkpd.step_day(
+                    dose=warm_dose,
+                    bacterial_load=self._load,
+                    resistance_level=self._resistance,
+                    fitness_cost_slope=self.fitness_cost_slope,
+                )
+                self._load = max(warm_load, 1.0)
+                self._cum_dose += warm_dose
 
         if options:
             if options.get("random_init_resistance", False):
@@ -223,6 +243,7 @@ class AMREnv(gym.Env):
                 "ec50_multiplier": self._current_ec50_multiplier,
                 "genotype_features": self._genotype_features.copy()}
 
+        self._env_step_count += 1
         self._last_info = info
         return self._get_obs(), reward, terminated, truncated, info
 
