@@ -77,8 +77,8 @@ class RewardFunction:
         components["msw"] = msw_pen
 
         # 5. Dense progress shaping: reward proportional to log-load reduction this step
-        progress = cfg.w_progress * (
-            np.log10(max(prev_load, 1.0)) - np.log10(max(bacterial_load, 1.0))
+        progress = cfg.w_progress * max(
+            np.log10(max(prev_load, 1.0)) - np.log10(max(bacterial_load, 1.0)), 0.0
         )
         reward += progress
         components["progress"] = progress
