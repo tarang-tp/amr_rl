@@ -54,6 +54,7 @@ log = logging.getLogger(__name__)
 
 def load_sb3_policy(path: str):
     from stable_baselines3 import PPO
+    path = str(path).removesuffix('.zip')
 
     class _SB3Wrapper:
         def __init__(self, model):
@@ -173,8 +174,16 @@ def main():
     policies["adversarial_ppo"] = load_sb3_policy(args.policy_path)
 
     if args.fixed_policy_path:
-        log.info(f"Loading fixed-resistance PPO from {args.fixed_policy_path}")
-        policies["fixed_ppo"] = load_sb3_policy(args.fixed_policy_path)
+        fp = Path(args.fixed_policy_path)
+        # SB3 appends .zip automatically; check both forms
+        if not fp.exists() and not fp.with_suffix("").with_suffix(".zip").exists():
+            fp_zip = Path(str(fp) + ".zip")
+            if not fp_zip.exists():
+                log.warning(f"fixed_policy_path not found: {args.fixed_policy_path} — skipping")
+                args.fixed_policy_path = None
+        if args.fixed_policy_path:
+            log.info(f"Loading fixed-resistance PPO from {args.fixed_policy_path}")
+            policies["fixed_ppo"] = load_sb3_policy(args.fixed_policy_path)
 
     policies["cycling"] = CyclingHeuristic(period=cfg["baselines"]["cycling_period"])
     policies["bandit"] = ContextualBanditPolicy(epsilon=cfg["baselines"]["bandit_epsilon"])
