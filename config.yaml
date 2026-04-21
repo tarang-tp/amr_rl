@@ -23,7 +23,7 @@ reward:
   w_clearance: 25.0
   w_load: -0.01
   w_dose: -0.005
-  w_resistance: -2.0
+  w_resistance: -0.5
   msw_penalty: -1.5
   w_progress: 0.5
   gamma: 0.99
@@ -58,7 +58,7 @@ adversarial:
   mode: minimax
   patience: 50000
   resistance_budget: 0.3
-  co_train_ratio: 4
+  co_train_ratio: 8
 baselines:
   cycling_period: 3
   bandit_epsilon: 0.1
