@@ -148,7 +148,8 @@ def main():
     parser.add_argument("--config", type=str, default="config.yaml")
     parser.add_argument("--policy_path", type=str, required=True,
                         help="Path to adversarial PPO checkpoint (.zip)")
-    parser.add_argument("--fixed_policy_path", type=str, default=None,
+    parser.add_argument("--fixed_policy_path", type=str,
+                        default="checkpoints/fixed_ppo_static.zip",
                         help="Path to fixed-resistance PPO checkpoint (.zip)")
     parser.add_argument("--adversary_path", type=str, default=None,
                         help="Path to trained adversary checkpoint (.pt)")
