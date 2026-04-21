@@ -6,7 +6,7 @@ Full evaluation run — loads trained checkpoints and generates all paper result
 Usage:
   python scripts/evaluate.py \
       --policy_path checkpoints/best/best_model.zip \
-      --fixed_policy_path checkpoints/fixed_ppo.zip \
+      --fixed_policy_path checkpoints/fixed_ppo_static.zip \
       --adversary_path checkpoints/adversary_final.pt \
       --output_dir results/
 
